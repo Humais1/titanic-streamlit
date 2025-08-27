@@ -1,6 +1,6 @@
 # Titanic Survival Prediction (Streamlit + scikit-learn)
 
-**Live app:** https://<your-live-subdomain>.streamlit.app  
+**Live app:** https://titanic-app-attljoucbpt5askqtconam.streamlit.app/
 **Repo:** https://github.com/Humais1/titanic-streamlit
 
 This app predicts passenger survival on the Titanic using a Logistic Regression pipeline (with preprocessing + engineered features).
@@ -15,5 +15,5 @@ This app predicts passenger survival on the Titanic using a Logistic Regression 
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-**Live app:** https://<your-live-subdomain>.streamlit.app  
-**Repo:** https://github.com/Humais1/titanic-streamlit
+
+
